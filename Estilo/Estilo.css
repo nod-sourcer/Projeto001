@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #fdfdfd;
+}/*então o id menu é o titulo principal onde */
+#menu{
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+#menu h1{
+    position: relative;
+    left: 10px;
+    top: 45px;
+    font-family: "Oswald";
+}
+@font-face {
+    font-family:"Oswald";
+    src: url(Formatação_de_texto/Oswald/Oswald-VariableFont_wght.ttf);
+}
