@@ -14,10 +14,15 @@ body{
 #menu h1{
     position: relative;
     left: 10px;
-    top: 45px;
+    top: 23px;
     font-family: "Oswald";
+    padding-bottom: 15px;
 }
 @font-face {
     font-family:"Oswald";
     src: url(Formatação_de_texto/Oswald/Oswald-VariableFont_wght.ttf);
+}
+.texto{
+    margin-left: 30px;
+    margin-right: 30px;
 }
